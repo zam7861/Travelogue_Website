@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Travelogue_Website/static/css/main.ea86cc57.chunk.css",
+    "main.js": "/Travelogue_Website/static/js/main.2b89cf97.chunk.js",
+    "main.js.map": "/Travelogue_Website/static/js/main.2b89cf97.chunk.js.map",
+    "runtime-main.js": "/Travelogue_Website/static/js/runtime-main.5b9b3016.js",
+    "runtime-main.js.map": "/Travelogue_Website/static/js/runtime-main.5b9b3016.js.map",
+    "static/js/2.8a0410da.chunk.js": "/Travelogue_Website/static/js/2.8a0410da.chunk.js",
+    "static/js/2.8a0410da.chunk.js.map": "/Travelogue_Website/static/js/2.8a0410da.chunk.js.map",
+    "index.html": "/Travelogue_Website/index.html",
+    "static/css/main.ea86cc57.chunk.css.map": "/Travelogue_Website/static/css/main.ea86cc57.chunk.css.map",
+    "static/js/2.8a0410da.chunk.js.LICENSE.txt": "/Travelogue_Website/static/js/2.8a0410da.chunk.js.LICENSE.txt",
+    "static/media/GatewayOfIndia.e450bb5a.jpg": "/Travelogue_Website/static/media/GatewayOfIndia.e450bb5a.jpg",
+    "static/media/Gaurav.cf83d6be.jpg": "/Travelogue_Website/static/media/Gaurav.cf83d6be.jpg",
+    "static/media/IndiaGate.44ea6c9b.jpg": "/Travelogue_Website/static/media/IndiaGate.44ea6c9b.jpg",
+    "static/media/Mahesh.a83fb29c.jpg": "/Travelogue_Website/static/media/Mahesh.a83fb29c.jpg",
+    "static/media/MasrurTemples.978c02e9.jpg": "/Travelogue_Website/static/media/MasrurTemples.978c02e9.jpg",
+    "static/media/Pritam.0948e138.jpg": "/Travelogue_Website/static/media/Pritam.0948e138.jpg",
+    "static/media/Sahil.b666eb3d.jpg": "/Travelogue_Website/static/media/Sahil.b666eb3d.jpg",
+    "static/media/StatueOfUnity.97810d8e.jpg": "/Travelogue_Website/static/media/StatueOfUnity.97810d8e.jpg",
+    "static/media/VijayStambh.73df73ed.jpg": "/Travelogue_Website/static/media/VijayStambh.73df73ed.jpg",
+    "static/media/index.css": "/Travelogue_Website/static/media/background.4ca3a006.png",
+    "static/media/can-pzs4.04fa4ac9.jpg": "/Travelogue_Website/static/media/can-pzs4.04fa4ac9.jpg",
+    "static/media/e=mc2.0e45c431.png": "/Travelogue_Website/static/media/e=mc2.0e45c431.png",
+    "static/media/logo.18d1a314.jpg": "/Travelogue_Website/static/media/logo.18d1a314.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b9b3016.js",
+    "static/js/2.8a0410da.chunk.js",
+    "static/css/main.ea86cc57.chunk.css",
+    "static/js/main.2b89cf97.chunk.js"
+  ]
+}
