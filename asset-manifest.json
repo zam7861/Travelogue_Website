@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Travelogue_Website/static/css/main.007fcced.chunk.css",
-    "main.js": "/Travelogue_Website/static/js/main.6eaa3d4f.chunk.js",
-    "main.js.map": "/Travelogue_Website/static/js/main.6eaa3d4f.chunk.js.map",
+    "main.css": "/Travelogue_Website/static/css/main.bb7becd7.chunk.css",
+    "main.js": "/Travelogue_Website/static/js/main.1db6f5da.chunk.js",
+    "main.js.map": "/Travelogue_Website/static/js/main.1db6f5da.chunk.js.map",
     "runtime-main.js": "/Travelogue_Website/static/js/runtime-main.5b9b3016.js",
     "runtime-main.js.map": "/Travelogue_Website/static/js/runtime-main.5b9b3016.js.map",
     "static/js/2.8a0410da.chunk.js": "/Travelogue_Website/static/js/2.8a0410da.chunk.js",
     "static/js/2.8a0410da.chunk.js.map": "/Travelogue_Website/static/js/2.8a0410da.chunk.js.map",
     "index.html": "/Travelogue_Website/index.html",
-    "static/css/main.007fcced.chunk.css.map": "/Travelogue_Website/static/css/main.007fcced.chunk.css.map",
+    "static/css/main.bb7becd7.chunk.css.map": "/Travelogue_Website/static/css/main.bb7becd7.chunk.css.map",
     "static/js/2.8a0410da.chunk.js.LICENSE.txt": "/Travelogue_Website/static/js/2.8a0410da.chunk.js.LICENSE.txt",
     "static/media/GatewayOfIndia.e450bb5a.jpg": "/Travelogue_Website/static/media/GatewayOfIndia.e450bb5a.jpg",
     "static/media/Gaurav.cf83d6be.jpg": "/Travelogue_Website/static/media/Gaurav.cf83d6be.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.5b9b3016.js",
     "static/js/2.8a0410da.chunk.js",
-    "static/css/main.007fcced.chunk.css",
-    "static/js/main.6eaa3d4f.chunk.js"
+    "static/css/main.bb7becd7.chunk.css",
+    "static/js/main.1db6f5da.chunk.js"
   ]
 }
