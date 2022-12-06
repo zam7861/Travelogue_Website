@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Your user",
+    "DB_PASSWORD": "Your password",
+    "DB_NAME": "Your database",
+    "MAPS_API_KEY": "Your key",
+    "JWT_KEY": "supersecretdontshare"
+  }
+}
