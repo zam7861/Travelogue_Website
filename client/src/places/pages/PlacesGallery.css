@@ -1,0 +1,42 @@
+.place-card {
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.6);
+  transition: 0.4s;
+  border-radius: 20px;
+  background-color: white;
+  border: black;
+  display: inline-block;
+  margin: 1rem;
+  width: 25rem;
+  height: 40rem;
+}
+
+.place-card:hover {
+  box-shadow: 8px 8px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+.place-card img {
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.place-details {
+  padding: 0 1rem;
+}
+
+.place-details h2 {
+  font-weight: bold;
+}
+
+.place-details p {
+  line-height: 1.5;
+}
+
+@media (max-width: 480px) {
+  .place-card {
+    width: 90%;
+    margin: 1rem;
+    height: 42rem;
+  }
+}
