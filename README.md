@@ -2,7 +2,7 @@
 
 A travel web application to cherish travel memories.
 
-The web app is live at [Travelogue](https://abhithere.github.io/travelogue/)
+The web app is live at [Travelogue](https://zam7861.github.io/Travelogue_Website/)
 
 # 📃 Description
 
